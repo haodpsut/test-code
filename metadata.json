@@ -1,5 +1,6 @@
 {
-  "name": "DrawIO LLM v2",
+  "name": "DrawIO LLM v3",
   "description": "Generate Draw.io diagrams from text descriptions using AI. Describe your diagram, and the app will generate the corresponding Draw.io XML and render the visual.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
